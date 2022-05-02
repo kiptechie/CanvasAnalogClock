@@ -6,7 +6,6 @@ Analog clock made with jetpack compose canvas.
 
 https://user-images.githubusercontent.com/40039858/166225813-350d0ef2-3963-48bb-a78e-fe83df32a967.mp4
 
-
 ## Installation
 
 Clone this repository and import into **Android Studio**
